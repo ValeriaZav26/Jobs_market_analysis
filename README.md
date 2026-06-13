@@ -18,3 +18,5 @@
 3. **Инсайт:** Рейтинг компании практически никак не влияет на уровень предлагаемой зарплаты (корреляция близка к 0).
 
 ---
+🔗 Источники и данные (Credits)
+* **Исходный датасет:** [Data Science Job Posting on Glassdoor (Kaggle)](https://www.kaggle.com/datasets/rashikrahmanpritom/data-science-job-posting-on-glassdoor)
